@@ -1,0 +1,1 @@
+Here you can find my the code related to my thesis project working on finding to what extent frequency of internet use can be used as a predictor for conspiracy belief. The CSV is too large to upload here, but can be found at the following link: https://ess.sikt.no/en/datafile/f37d014a-6958-42d4-b03b-17c29e481d3d/262?tab=0
